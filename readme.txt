@@ -6,4 +6,4 @@ something stupid have change.
 
 Creating a new branch is quick and simple.
 
-a new commit on dev.
+fix a bug: a new commit on dev.
