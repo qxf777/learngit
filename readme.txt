@@ -4,4 +4,4 @@ GIT is good software.
 Git tracks some files.
 something stupid have change.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
